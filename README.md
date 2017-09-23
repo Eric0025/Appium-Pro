@@ -7,4 +7,6 @@ Protractor is a Node.js program built on top of WebDriverJS.
 Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 
 framework with chia
+cucumber 
+typescript
 
